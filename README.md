@@ -53,7 +53,6 @@ Ensure you have **Node.js (v18.x or higher)** and npm/yarn installed locally.
 
 <img width="1920" height="1032" alt="Screenshot 2026-10-30 010728" src="https://github.com/user-attachments/assets/edf3eeee-e307-44ef-8422-a58473dfc13f" />
 
-<img width="1078" height="1032" alt="Screenshot 2026-10-30 010906" src="https://github.com/user-attachments/assets/ffd8371f-0875-4816-ac24-4b3e8073b527" />
+<img width="1078" height="922" alt="Screenshot 2026-10-30 010906" src="https://github.com/user-attachments/assets/e8bad7e2-3a17-4a61-9519-4f70f767d979" />
 
-<img width="1078" height="1032" alt="Screenshot 2026-10-30 010827" src="https://github.com/user-attachments/assets/816ee15a-4014-4e34-ac8b-6e245ee63a93" />
-
+<img width="1078" height="923" alt="Screenshot 2026-10-30 010827" src="https://github.com/user-attachments/assets/0cd2af0b-fd13-4598-a6b4-ee063019cddb" />
